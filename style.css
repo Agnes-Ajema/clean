@@ -1,0 +1,70 @@
+#one{
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+#button{
+    color: white;
+    background-color: blue;
+    height: 30px;
+    border-radius: 30px;
+    border-color: azure;
+    
+}
+#full{
+    background-color: rgb(167, 162, 162);
+    color: white;
+    height: 30px;
+    border-radius: 30px;
+}
+.three{
+    display: flex;
+    justify-content: space-around;
+}
+.four{
+    display: flex;
+    justify-content: space-around;
+}
+.five{
+    display: flex;
+    justify-content: space-around;
+}
+.six{
+    text-align: center;
+}
+.seven{
+    display: flex;
+    justify-content: space-around;
+}
+.eight{
+    text-align: center;
+}
+.nine{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ten{
+    text-align: center;
+}
+.eleven{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.twelve{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+#blue{
+    color:blue;
+}
+@media all and (max-width:480px){
+body{
+
+}
+}
